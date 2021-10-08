@@ -1,6 +1,6 @@
 # PDDL Configurations
 
-## Configure Visual Studio Code Plugin
+## Install and Configure PDDL plugin in your Visual Studio Code
 
 - In your **VScode extension** search **PDDL** plugins, after must accept all recommendations in the Overview page.
 
