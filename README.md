@@ -1,4 +1,4 @@
-# PDDL Configurations
+# Download and Install solvers in VScode to work with PDDL
 
 ## Install and Configure PDDL plugin in your Visual Studio Code
 
