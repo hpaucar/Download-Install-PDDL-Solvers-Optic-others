@@ -20,7 +20,7 @@
 - Unzip the zip files in your workspace and open the folder in your terminal
 - Use the next command to execute the solvers. For example, the most common solver is optic-cpl.
 
-`$ ./optic-clp \&lt;domain\_path.pddl\&gt; \&lt;problem\_path.pddl\&gt;`
+`$ ./optic-clp <domain_path.pddl> <problem_path.pddl>`
 
 ### If you want execute with others solvers how:
 
@@ -37,11 +37,11 @@
 
 Use:
 
-`$ ./plan-all \&lt;domain\_path.pddl\&gt; \&lt;problem\_path.pddl\&gt; \&lt;folder\_to\_output\_result\&gt;`
+`$ ./plan-all <domain_path.pddl> <problem_path.pddl> <folder_to_output_result_path>`
 
 ## Using GUI of Visual Studio Code
 
-- First select the &quot;View\&gt;\&gt;Command Palette&quot; and write &quot;\&gt;PDDL:Show overview page&quot;
+- First select the "View>>Command Palette" and write "PDDL:Show overview page"
 - In this page choose (+) button and select the run file(optic-clp) that is found in your folder from solvers.
 
 ![](image2.png)
