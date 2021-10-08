@@ -8,7 +8,7 @@
 
 - Click in &quot;Hello World&quot; options and select a folder where you save your first project. Or download the **HelloWorld project** or others projects at this [Link](https://github.com/hpaucar/autonomous-system-repo).
 
-![](image1.png)
+![](media/image1.png)
 
 ### To execute in VScode
 - To execute your project, select the problem.pddl file and right click and choose &quot;PDDL: Run the planner and display the plan&quot;.
@@ -48,8 +48,8 @@ Use:
 - First select the "View>>Command Palette" and write "PDDL:Show overview page"
 - In this page choose (+) button and select the run file(optic-clp) that is found in your folder from solvers.
 
-![](image2.png)
+![](media/image2.png)
 
 - Finally make the same to execute pddl projects, i.e. right click and select PDDL:run ...
 
-![](optic-pddl-minimize.gif)
+![](media/optic-pddl-minimize.gif)
