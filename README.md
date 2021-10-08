@@ -10,6 +10,7 @@
 
 ![](image1.png)
 
+### To execute in VScode
 - To execute your project, select the problem.pddl file and right click and choose &quot;PDDL: Run the planner and display the plan&quot;.
 - You have to watch a tab where you display the actions order from first state to last state.
 
