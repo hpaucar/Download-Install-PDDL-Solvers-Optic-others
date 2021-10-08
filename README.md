@@ -51,3 +51,5 @@ Use:
 ![](image2.png)
 
 - Finally make the same to execute pddl projects, i.e. right click and select PDDL:run ...
+
+![](optic-pddl-minimize.gif)
