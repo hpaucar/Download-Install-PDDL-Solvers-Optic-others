@@ -19,9 +19,12 @@
 - Download the next solvers. These solvers was tested in Ubuntu 20.04
 - Choose your version: to [32bits](https://drive.google.com/file/d/1u2yJTUpDOPD0YoyfRjwhTgkWW5sfZWmQ/view?usp=sharing) and [64bits](https://drive.google.com/file/d/1KSKZQ6PBbsavlJTxEhQLkq6sJ6nE1nQR/view?usp=sharing)
 - Unzip the zip files in your workspace and open the folder in your terminal
+- Download the next *basic travel sales project* at this [08_TS_problem](https://github.com/hpaucar/autonomous-system-repo)
 - Use the next command to execute the solvers. For example, the most common solver is *optic-clp*.
 
 `$ ./optic-clp <domain_path.pddl> <problem_path.pddl>`
+
+
 
 ### If you want execute with others solvers how:
 
