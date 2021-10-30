@@ -26,7 +26,7 @@
 
 
 
-### If you want execute with others solvers how:
+### If you want execute with others solvers, as:
 
 - FD-FDSS
 - FD-LMCUT
